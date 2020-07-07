@@ -1,0 +1,109 @@
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:17  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:31  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:12  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active          7  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:07  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:31  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active          7  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:18  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:32  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:13  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active          8  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:08  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:32  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active          8  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:18  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:32  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:13  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active          8  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:08  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:32  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active          8  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:18  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:33  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:14  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active          9  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:09  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:33  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active          9  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:18  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:33  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:14  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active          9  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:09  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:33  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active          9  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:21  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:35  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:16  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active         11  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:11  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:35  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active         11  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:21  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         1:35  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:16  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#115         5  Active         11  7/1/2020 8:39 AM
+ arg0102                                   6  Disc         2:11  7/1/2020 9:14 AM
+ bboyle                                    7  Disc         1:35  7/1/2020 10:05 AM
+ clin                  rdp-tcp#54          8  Active         11  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:51  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         2:05  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:46  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#40          5  Active          .  7/1/2020 8:39 AM
+ arg0102               rdp-tcp#66          6  Active          .  7/1/2020 9:14 AM
+ bboyle                rdp-tcp#38          7  Active         22  7/1/2020 10:05 AM
+ clin                  rdp-tcp#131         8  Active         10  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:53  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         2:07  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:48  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#40          5  Active          .  7/1/2020 8:39 AM
+ arg0102               rdp-tcp#66          6  Active          2  7/1/2020 9:14 AM
+ bboyle                rdp-tcp#38          7  Active         24  7/1/2020 10:05 AM
+ clin                  rdp-tcp#131         8  Active         13  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+20:54  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         2:08  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        13:49  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#40          5  Active          .  7/1/2020 8:39 AM
+ arg0102               rdp-tcp#66          6  Active          3  7/1/2020 9:14 AM
+ bboyle                rdp-tcp#38          7  Active         26  7/1/2020 10:05 AM
+ clin                  rdp-tcp#131         8  Active         14  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+21:21  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         2:36  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        14:17  7/1/2020 12:04 AM
+ cl2020                rdp-tcp#107         5  Active          3  7/1/2020 8:39 AM
+ arg0102               rdp-tcp#66          6  Active         30  7/1/2020 9:14 AM
+ bboyle                rdp-tcp#38          7  Active         23  7/1/2020 10:05 AM
+ clin                  rdp-tcp#59          8  Active          3  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM
+ USERNAME              SESSIONNAME        ID  STATE   IDLE TIME  LOGON TIME
+ tzhang                                    2  Disc      2+21:46  6/30/2020 4:25 PM
+ jeb0100                                   3  Disc         3:01  6/30/2020 9:28 PM
+ cmoran                                    4  Disc        14:42  7/1/2020 12:04 AM
+ cl2020                                    5  Disc           21  7/1/2020 8:39 AM
+ arg0102               rdp-tcp#81          6  Active          .  7/1/2020 9:14 AM
+ bboyle                rdp-tcp#56          7  Active          .  7/1/2020 10:05 AM
+ clin                                      8  Disc           21  7/1/2020 3:23 PM
+>mtw004                rdp-tcp#29          9  Active          .  7/6/2020 10:54 AM

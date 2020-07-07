@@ -1,0 +1,1 @@
+﻿query User | Add-Content C:\Users\mtw004\Desktop\MonthlyServerInformation\QueryUserInfo.csv
