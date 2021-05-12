@@ -1,4 +1,4 @@
 # Windows2019ServerUserLogonLogoffTutorial
-This is the repository for the Windows 2019 Server Tutorial that displays Data in Excel from the last 31 days.
+This Windows 2019 Server User Logging System that displays user data and calculates user login time in Excel from the last 31 days.
 
-The xlsx files are an example of how it works on my server. 
+The xlsx files are a use case from the summer of 2020. 
